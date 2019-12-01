@@ -12,4 +12,13 @@ in range(len(nama)): .
 penambahan nilai i akan di ulang sebanyak tiga kali, sehingga menghasilkan deret angka 1,2,3 >>print("|",i+1,end="").
 * 7.Selanjutnya program akan menampilkan semua nilai yang telah anda inputkan.
 Program akan memanggil data nama,nim,tugas,uts,uas.
-Lalu program akan meletakan data tersebut pada baris berdasarkan variabel "i", jika anda menginputkan dua buah nama maka akantampil.
+Lalu program akan meletakan data tersebut pada baris berdasarkan variabel "i", jika anda menginputkan dua buah nama maka akan tampil.
+1 nama1 nim1
+2 nama2 nim2
+Begitu pula data yang lain.
+* 8.Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data
+sesuai dengan index dari variabel "i".
+tugas1+uts1+uas1/3
+tugas2+uts2+uas2/3
+* 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
+* 10.Program selesai.
