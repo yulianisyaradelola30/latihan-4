@@ -22,3 +22,6 @@ tugas1+uts1+uas1/3
 tugas2+uts2+uas2/3
 * 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 * 10.Program selesai.
+# hasil kodingan latihan 4
+
+![sslat4](https://user-images.githubusercontent.com/57038763/70382979-33065d80-1998-11ea-8375-b1428f0e432c.png)
