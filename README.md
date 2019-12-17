@@ -26,4 +26,5 @@ tugas2+uts2+uas2/3
 
 ![sslat4](https://user-images.githubusercontent.com/57038763/70382979-33065d80-1998-11ea-8375-b1428f0e432c.png)
 # flowchart
-![Uploading ss5.jpg…]()
+![ss5](https://user-images.githubusercontent.com/57038763/70994589-25bc4200-2101-11ea-9707-95a5f58a9899.jpg)
+
